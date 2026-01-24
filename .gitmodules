@@ -1,0 +1,6 @@
+[submodule "SimpleServerHTTP"]
+	path = Server/sub-modules/Banco
+	url = https://github.com/dabl03/SimpleServerHTTP
+[submodule "Banco"]
+	path = Server/sub-modules/Banco
+	url = https://github.com/dabl03/Banco

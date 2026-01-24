@@ -14,4 +14,7 @@ class Bank{
 
 		}
 	}
+	public static void Main(string[] arg){
+		Console.WriteLine("Todavia en construccion...");
+	}
 }
