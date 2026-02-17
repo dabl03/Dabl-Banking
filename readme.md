@@ -2,12 +2,8 @@
 ## Como usar:
 Primero debemos descargar desde git:
 <pre><code>
-	git clone --recurse-submodules https://github.com/dabl03/SimpleServerHTTP
-<code><pre>
-o
-<pre><code>
-	git clone https://github.com/dabl03/SimpleServerHTTP
-	git submodule update --init --recursive
+	git clone https://github.com/dabl03/Dabl-Banking.git
+	git submodule update --remote --merge
 </code></pre>
 
 ## Requisitos:
